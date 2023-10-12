@@ -1,0 +1,14 @@
+Sales Analysis:
+	Examine sales data to identify top-selling and underperforming products.
+	Analyze sales by region or customer to identify potential expansion opportunities or overlooked market segments.
+Customer Analysis:
+	Analyze customer data to identify the most profitable customers or those who make frequent purchases. Consider factors like average order value, customer loyalty, and the duration of the business relationship.
+	Also, examine customer reviews or feedback to identify any issues or areas for service improvement.
+Inventory and Order Analysis:
+	Evaluate inventory and order data to optimize stock levels. Identify products that are consistently out of stock or those that remain unsold for extended periods.
+	Review order delivery times and supplier performance to identify any delays or supply chain inefficiencies.
+Cost Analysis:
+	Examine product costs, transportation costs, and profit margins to identify areas where cost reduction or operational efficiency improvement is possible.
+	Analyze operational costs such as labor or overhead expenses to identify cost-saving or waste-reduction opportunities.
+Trend Analysis:
+	Explore historical data to identify sales trends, seasonality, or changes in customer behavior. This can help in predicting future demand and adapting sales or procurement strategies accordingly.
